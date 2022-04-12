@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c sharp shop 2", "c sharp shop 2\c sharp shop 2.csproj", "{55949A61-FFB9-4E04-A427-CBDB6EFCF515}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55949A61-FFB9-4E04-A427-CBDB6EFCF515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55949A61-FFB9-4E04-A427-CBDB6EFCF515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55949A61-FFB9-4E04-A427-CBDB6EFCF515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55949A61-FFB9-4E04-A427-CBDB6EFCF515}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACCE65C1-BC18-4611-AB36-B87DED6C9BD0}
+	EndGlobalSection
+EndGlobal
